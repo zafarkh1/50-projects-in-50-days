@@ -53,7 +53,7 @@ body {
   width: 0%;
   background-color: var(--line-border-fill);
   z-index: -1;
-  transition: 0.4s ease;
+  transition: 0.7s ease;
 }
 
 .circle {
